@@ -1,0 +1,20 @@
+{
+  "name": "sponzrit-theme-beta",
+  "version": "15.5.16",
+  "description": "sponzr.it theme",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/sponzrit/beta-theme.git"
+  },
+  "author": "Amit Choukroun",
+  "license": "Commercial",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-riot": "^0.2.14"
+  }
+}
