@@ -1,17 +1,17 @@
 {
-  "name": "sponzrit-theme-beta",
+  "name": "wp-component-theme",
   "version": "15.5.16",
-  "description": "sponzr.it theme",
+  "description": "wordpress component theme",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/sponzrit/beta-theme.git"
+    "url": "https://github.com/amitmtrn/wp-component-theme.git"
   },
   "author": "Amit Choukroun",
-  "license": "Commercial",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-concat": "^2.5.2",
